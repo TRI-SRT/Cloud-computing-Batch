@@ -370,3 +370,8 @@ Choose End Lab at the top of this page, and then select Yes to confirm that you 
 A panel indicates that You may close this message box now...
 
 Select the X in the top-right corner to close the panel.
+
+
+
+## output:
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/2a0a0a77-3641-4f6f-8438-aef3349495c7" />
