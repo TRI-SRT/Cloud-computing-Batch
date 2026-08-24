@@ -250,3 +250,8 @@ Choose End Lab at the top of this page and then choose Yes to confirm that you w
 A panel will appear, indicating that "DELETE has been initiated... You may close this message box now."
 
 Choose the X in the top right corner to close the panel.
+
+
+## Output:
+
+<img width="1915" height="968" alt="image" src="https://github.com/user-attachments/assets/9557d63c-586b-4bd0-b0d2-5740202b197c" />
