@@ -407,3 +407,7 @@ Congratulations! You now have successfully:
 - Experimented with the effects of policies on service access
 
 © 2023 Amazon Web Services, Inc. and its affiliates. All rights reserved. This work may not be reproduced or redistributed, in whole or in part, without prior written permission from Amazon Web Services, Inc. Commercial copying, lending, or selling is prohibited.
+
+## output
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/aa21e618-111c-4e4b-b83f-25d0a3ab6a5a" />
+
