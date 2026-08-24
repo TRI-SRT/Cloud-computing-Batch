@@ -396,6 +396,10 @@ A panel indicates that *You may close this message box now...*
 
 ---
 
+
+## output:
+<img width="1919" height="999" alt="image" src="https://github.com/user-attachments/assets/d796d542-3d18-406a-b6a4-38fa2b0fcdf5" />
+
 ## Conclusion
 
 Congratulations! You now have successfully:
