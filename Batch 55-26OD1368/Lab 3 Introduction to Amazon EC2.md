@@ -412,3 +412,6 @@ Amazon EC2 Service Limits
 Terminate Your Instance
 
 Termination Protection for an Instance
+
+## output:
+<img width="1915" height="1011" alt="image" src="https://github.com/user-attachments/assets/221d449c-0cc9-414b-90a8-f29b9521d4df" />
