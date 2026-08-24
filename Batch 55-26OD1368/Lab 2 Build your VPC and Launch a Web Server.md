@@ -374,4 +374,4 @@ Select the X in the top-right corner to close the panel.
 
 
 ## OUTPUT
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/5ba922bb-85c7-4150-a618-398537052f9d" />
+<img width="1915" height="1061" alt="image" src="https://github.com/user-attachments/assets/e23a5f02-6239-4d5a-ac43-41b5ce4cee84" />
