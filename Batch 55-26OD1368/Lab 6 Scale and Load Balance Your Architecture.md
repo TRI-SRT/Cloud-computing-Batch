@@ -402,3 +402,18 @@ Choose End Lab at the top of this page and then choose Yes to confirm that you w
 A panel will appear, indicating that "DELETE has been initiated... You may close this message box now."
 
 Choose the X in the top right corner to close the panel.
+
+## OUTPUT
+<img width="1919" height="956" alt="lab-6-op-1" src="https://github.com/user-attachments/assets/1acfb530-b660-4d00-8c52-f4bbc7be6b78" />
+
+<img width="1919" height="960" alt="lab-6-op-2" src="https://github.com/user-attachments/assets/be44cdc2-7e84-4b58-86f0-63705cc661c8" />
+
+<img width="1919" height="960" alt="lab-6-op-3" src="https://github.com/user-attachments/assets/61ff8f57-44bf-42b1-abba-432b7d241342" />
+
+<img width="1919" height="968" alt="lab-6-op-4" src="https://github.com/user-attachments/assets/6a32d807-a0f3-4d8d-8d98-073717d52bbe" />
+
+<img width="1915" height="966" alt="lab-6-op-5" src="https://github.com/user-attachments/assets/8425ec9b-91c5-450f-b0de-74d5221b46aa" />
+
+<img width="1914" height="962" alt="lab-6-op-6" src="https://github.com/user-attachments/assets/bd37ba76-c2ca-413b-8cc8-3dde38ba2f63" />
+
+<img width="1919" height="959" alt="lab-6-op-7" src="https://github.com/user-attachments/assets/9dfa81e7-970c-43f0-828a-07bef7266d0b" />
