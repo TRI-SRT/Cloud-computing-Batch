@@ -412,3 +412,13 @@ Amazon EC2 Service Limits
 Terminate Your Instance
 
 Termination Protection for an Instance
+
+## OUTPUT
+<img width="1919" height="950" alt="lab-3-op-1" src="https://github.com/user-attachments/assets/f58812ab-cd69-4e9f-bb34-e38758e5feae" />
+<img width="1919" height="927" alt="lab-3-op-2" src="https://github.com/user-attachments/assets/6a96a918-3833-44c8-84a5-1571c6450aca" />
+<img width="1919" height="967" alt="lab-3-op-3" src="https://github.com/user-attachments/assets/366a379e-0d1f-4ce9-8f38-0672610016ec" />
+<img width="1919" height="969" alt="lab-3-op-4" src="https://github.com/user-attachments/assets/af9ce50e-01da-42a0-8a13-8a153a53f42e" />
+<img width="1919" height="958" alt="lab-3-op-5" src="https://github.com/user-attachments/assets/6552c4c8-7851-4032-a1c5-9d429482e0a9" />
+
+
+
