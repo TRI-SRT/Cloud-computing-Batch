@@ -370,3 +370,21 @@ Choose End Lab at the top of this page, and then select Yes to confirm that you 
 A panel indicates that You may close this message box now...
 
 Select the X in the top-right corner to close the panel.
+
+## Output
+
+<img width="1919" height="966" alt="lab-2-op-1" src="https://github.com/user-attachments/assets/610e6909-a6f4-4aec-bafe-e4aeaabf12cb" />
+<br><br>
+<img width="1919" height="968" alt="lab-2-op-2" src="https://github.com/user-attachments/assets/0b0406ff-bff7-4260-af6e-7bd14f240e83" />
+<br><br>
+<img width="1912" height="968" alt="lab-2-op-3" src="https://github.com/user-attachments/assets/455fbed1-1d09-4a22-8fc8-c00bb56e2354" />
+<br><br>
+<img width="1919" height="962" alt="lab-2-op-4" src="https://github.com/user-attachments/assets/f63223a4-672e-4fd2-a58e-a8ccf4b9e674" />
+<br><br>
+<img width="1919" height="971" alt="lab-2-op-5" src="https://github.com/user-attachments/assets/d884f65d-357b-47e5-81d1-c204b17e78f0" />
+<br><br>
+<img width="1919" height="965" alt="lab-2-op-6" src="https://github.com/user-attachments/assets/3f09d478-471c-44db-81f8-1bd98a4745dc" />
+
+## Conclusion
+
+Thus, the VPC was successfully created and configured with public and private subnets, route tables, Internet Gateway, NAT Gateway, and a security group. An EC2 instance was launched in the public subnet and configured as a web server. The web application was successfully accessed through the instance's public DNS, verifying the working AWS network infrastructure.
