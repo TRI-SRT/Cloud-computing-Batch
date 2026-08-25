@@ -250,3 +250,17 @@ Choose End Lab at the top of this page and then choose Yes to confirm that you w
 A panel will appear, indicating that "DELETE has been initiated... You may close this message box now."
 
 Choose the X in the top right corner to close the panel.
+
+## Output
+
+<img width="1919" height="970" alt="lab-5-op-1" src="https://github.com/user-attachments/assets/aa251553-f336-44af-b804-ec8dbd4d43a6" />
+<br><br>
+<img width="1919" height="967" alt="lab-5-op-2" src="https://github.com/user-attachments/assets/a26ed19f-257f-4e7a-bf62-d0d233cc0cb6" />
+<br><br>
+<img width="1917" height="957" alt="lab-5-op-3" src="https://github.com/user-attachments/assets/259d7215-ff01-4730-ab6d-e891731feaf7" />
+<br><br>
+<img width="1918" height="965" alt="lab-5-op-4" src="https://github.com/user-attachments/assets/aff64237-8745-4760-8c08-9f344f4b9860" />
+
+## Conclusion
+
+Thus, the Amazon RDS MySQL database was successfully created and configured with a Multi-AZ deployment. A security group and DB subnet group were configured, and the web application was successfully connected to the RDS database to add, edit, and delete address book records.
