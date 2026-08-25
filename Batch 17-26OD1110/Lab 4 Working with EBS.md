@@ -306,3 +306,19 @@ Choose End Lab at the top of this page and then click Yes to confirm that you wa
 A panel will appear, indicating that "DELETE has been initiated... You may close this message box now."
 
 Choose the X in the top right corner to close the panel.
+
+## Output
+
+<img width="1919" height="965" alt="lab-4-op-1" src="https://github.com/user-attachments/assets/0e925e08-e7e1-4687-a8ef-09d50ae36454" />
+<br><br>
+<img width="1919" height="979" alt="lab-4-op-2" src="https://github.com/user-attachments/assets/9f3b9501-e728-4072-b61d-aff66f023af9" />
+<br><br>
+<img width="1919" height="968" alt="lab-4-op-3" src="https://github.com/user-attachments/assets/e6216429-7168-4071-8ee6-166e67e89300" />
+<br><br>
+<img width="1919" height="966" alt="lab-4-op-4" src="https://github.com/user-attachments/assets/24cc8d8f-a178-408b-b3a5-374a22b0d77b" />
+<br><br>
+<img width="1919" height="966" alt="lab-4-op-5" src="https://github.com/user-attachments/assets/69566120-4ef5-4b66-9cfe-ea2c4f1bf845" />
+
+## Conclusion
+
+Thus, the Amazon EBS lab was successfully completed by creating and attaching an EBS volume to an EC2 instance, formatting and mounting the volume, and storing data on it. An EBS snapshot was created and successfully used to restore a new volume, which was attached, mounted, and verified to contain the original data.
