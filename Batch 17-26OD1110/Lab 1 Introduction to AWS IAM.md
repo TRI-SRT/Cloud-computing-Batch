@@ -396,6 +396,16 @@ A panel indicates that *You may close this message box now...*
 
 ---
 
+## output
+1. <img width="1900" height="965" alt="image" src="https://github.com/user-attachments/assets/54ec5583-ca8f-4a18-ba71-7d31a7649f02" />
+
+2. <img width="1722" height="913" alt="image" src="https://github.com/user-attachments/assets/69a6fd19-eb5b-4047-b23a-2c3c7ecfa158" />
+
+3.<img width="1810" height="869" alt="image" src="https://github.com/user-attachments/assets/002cd0a1-583f-42ef-9236-a7712d3f4d90" />
+
+4.<img width="1827" height="861" alt="image" src="https://github.com/user-attachments/assets/69238896-ef7a-4890-afec-bf96cb6066a7" />
+
+
 ## Conclusion
 
 Congratulations! You now have successfully:
