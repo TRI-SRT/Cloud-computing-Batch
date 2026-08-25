@@ -412,3 +412,23 @@ Amazon EC2 Service Limits
 Terminate Your Instance
 
 Termination Protection for an Instance
+
+## Output 
+
+<img width="1919" height="950" alt="lab-3-op-1" src="https://github.com/user-attachments/assets/39845690-5eb4-445c-9ada-810cd671de14" />
+<br>
+<br>
+<img width="1919" height="927" alt="lab-3-op-2" src="https://github.com/user-attachments/assets/923f7000-8417-4b87-8e29-c15b57f92169" />
+<br>
+<br>
+<img width="1919" height="967" alt="lab-3-op-3" src="https://github.com/user-attachments/assets/18b8f81c-366c-417a-8a39-aa995bffe7bd" />
+<br>
+<br>
+<img width="1919" height="969" alt="lab-3-op-4" src="https://github.com/user-attachments/assets/38ccbc50-b69b-48a8-aa13-83de635c707c" />
+<br>
+<br>
+<img width="1919" height="958" alt="lab-3-op-5" src="https://github.com/user-attachments/assets/be4fad78-ea2e-4c5f-b932-eefe0b85a446" />
+
+## Conclusion
+
+Thus, the Amazon EC2 instance was successfully launched and configured with termination and stop protection. The instance was monitored, HTTP access was enabled through a security group, and the instance type and EBS volume were successfully resized. Stop protection and EC2 service limits were also explored successfully.
