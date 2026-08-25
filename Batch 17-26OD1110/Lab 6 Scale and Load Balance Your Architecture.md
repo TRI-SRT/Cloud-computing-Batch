@@ -402,3 +402,23 @@ Choose End Lab at the top of this page and then choose Yes to confirm that you w
 A panel will appear, indicating that "DELETE has been initiated... You may close this message box now."
 
 Choose the X in the top right corner to close the panel.
+
+## Output
+
+<img width="1919" height="956" alt="lab-6-op-1" src="https://github.com/user-attachments/assets/14f9460c-8b14-476b-b31d-3f5fceb9f926" />
+<br><br>
+<img width="1919" height="960" alt="lab-6-op-2" src="https://github.com/user-attachments/assets/c94ffbfa-4fdf-4cda-9da3-05bdcbff201b" />
+<br><br>
+<img width="1919" height="960" alt="lab-6-op-3" src="https://github.com/user-attachments/assets/51a74ff4-6869-407f-8a25-b5431f1142c6" />
+<br><br>
+<img width="1919" height="968" alt="lab-6-op-4" src="https://github.com/user-attachments/assets/124abfc7-0c02-485f-8f59-f669dde15c0e" />
+<br><br>
+<img width="1915" height="966" alt="lab-6-op-5" src="https://github.com/user-attachments/assets/1d2ab99e-80d2-4f4d-866c-71dc70cce74c" />
+<br><br>
+<img width="1914" height="962" alt="lab-6-op-6" src="https://github.com/user-attachments/assets/70960c1c-d0af-46d0-844d-b19de762b350" />
+<br><br>
+<img width="1919" height="959" alt="lab-6-op-7" src="https://github.com/user-attachments/assets/4a251b4d-6ccf-43ef-b0c3-e2e6de303ed6" />
+
+## Conclusion
+
+Thus, the AWS EC2 infrastructure was successfully scaled and load balanced using Elastic Load Balancing and Auto Scaling. An AMI was created from the existing web server, an Application Load Balancer and target group were configured, and a Launch Template was used to create an Auto Scaling Group. Two instances were automatically launched and registered with the load balancer. CloudWatch monitoring and alarms were used to generate additional load and demonstrate automatic scaling based on CPU utilization. Finally, the original Web Server 1 instance was terminated after its AMI was created. This lab demonstrated how AWS provides high availability, fault tolerance, load distribution, and automatic scaling for web applications.
