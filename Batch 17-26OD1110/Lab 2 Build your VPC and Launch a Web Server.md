@@ -364,6 +364,18 @@ Tip: For any checks where you did not receive full points, there are sometimes h
 
 Lab complete
 Congratulations! You have completed the lab.
+## output
+1.<img width="1720" height="914" alt="image" src="https://github.com/user-attachments/assets/a4c2b288-d718-4311-a5f5-cbfaa11ad588" />
+
+2.<img width="1455" height="535" alt="image" src="https://github.com/user-attachments/assets/c171df7e-709f-4987-9dc7-2bc526747fe6" />
+
+3.<img width="1462" height="555" alt="image" src="https://github.com/user-attachments/assets/78700dd2-f5a2-4a04-84e4-6eace2af00c8" />
+
+4.<img width="1450" height="601" alt="image" src="https://github.com/user-attachments/assets/6599b831-9018-4212-8011-cd8112f4d8fb" />
+
+5.<img width="1441" height="627" alt="image" src="https://github.com/user-attachments/assets/38a3cbbf-2a98-4a62-942b-a4bcd651019f" />
+
+6.<img width="1602" height="302" alt="image" src="https://github.com/user-attachments/assets/9def3a4e-6074-43ad-b4da-20e8faa8372c" />
 
 Choose End Lab at the top of this page, and then select Yes to confirm that you want to end the lab.
 
