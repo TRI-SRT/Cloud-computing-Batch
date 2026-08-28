@@ -374,4 +374,15 @@ Select the X in the top-right corner to close the panel.
 
 
 ## OUTPUT
-<img width="1915" height="1061" alt="image" src="https://github.com/user-attachments/assets/e23a5f02-6239-4d5a-ac43-41b5ce4cee84" />
+<img width="1768" height="890" alt="clo2" src="https://github.com/user-attachments/assets/20f7ee96-375f-4ed3-8bf9-028a6e328845" />
+
+<img width="1760" height="893" alt="clo3" src="https://github.com/user-attachments/assets/3c2625c3-88d8-4476-ad52-e160e5f69d12" />
+
+<img width="1731" height="909" alt="clo4" src="https://github.com/user-attachments/assets/5a12bba2-3e6d-4051-9e97-e557c4f75048" />
+
+<img width="1771" height="888" alt="clo5" src="https://github.com/user-attachments/assets/e153a372-62a3-40a9-bd7a-cc94278c60b0" />
+
+
+<img width="1919" height="965" alt="lab-2-op-6" src="https://github.com/user-attachments/assets/233460a2-528a-465e-a12b-c0c6579894e5" />
+
+
