@@ -396,6 +396,19 @@ A panel indicates that *You may close this message box now...*
 
 ---
 
+## OUTPUT
+
+<img width="1762" height="893" alt="image" src="https://github.com/user-attachments/assets/41355949-3df6-4a0a-9311-fbd63850e549" />
+
+
+<img width="1024" height="479" alt="image" src="https://github.com/user-attachments/assets/6a048198-49f1-43cd-8e62-b1f032b7f689" />
+
+<img width="1768" height="889" alt="image" src="https://github.com/user-attachments/assets/bfa3bb46-02e4-4913-a6da-6b2622710c71" />
+
+<img width="1767" height="890" alt="image" src="https://github.com/user-attachments/assets/87c52376-ee4e-4ab3-be43-518e112ea4c2" />
+
+
+
 ## Conclusion
 
 Congratulations! You now have successfully:
