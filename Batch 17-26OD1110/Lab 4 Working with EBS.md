@@ -300,6 +300,13 @@ Verified that the file you created earlier was on the newly created volume
 
 Lab Complete
 Congratulations! You have completed the lab.
+## output
+1.<img width="685" height="383" alt="image" src="https://github.com/user-attachments/assets/61429761-494f-4054-b554-beaf778fe793" />
+2.<img width="652" height="392" alt="image" src="https://github.com/user-attachments/assets/528cd387-e68a-4f1f-958d-ac50fab0b1e0" />
+3.<img width="690" height="242" alt="image" src="https://github.com/user-attachments/assets/c9b5b162-7ec6-4c5e-b971-78d87b350a1f" />
+4.<img width="690" height="242" alt="image" src="https://github.com/user-attachments/assets/0b36f4f7-1960-4abc-8ab1-8bfbf8f46771" />
+5.<img width="660" height="212" alt="image" src="https://github.com/user-attachments/assets/e656e10d-c10c-4006-9ea0-203a09a9f756" />
+
 
 Choose End Lab at the top of this page and then click Yes to confirm that you want to end the lab.
 
