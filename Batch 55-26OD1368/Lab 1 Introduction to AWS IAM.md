@@ -409,5 +409,15 @@ Congratulations! You now have successfully:
 © 2023 Amazon Web Services, Inc. and its affiliates. All rights reserved. This work may not be reproduced or redistributed, in whole or in part, without prior written permission from Amazon Web Services, Inc. Commercial copying, lending, or selling is prohibited.
 
 ## output
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/aa21e618-111c-4e4b-b83f-25d0a3ab6a5a" />
+## IAM user login
+<img width="1768" height="890" alt="clo1" src="https://github.com/user-attachments/assets/62b36d82-0661-4eab-aaf3-35c10c3ddcf2" />
+
+## different user 1 and user 2 and user 3
+<img width="1280" height="644" alt="WhatsApp Image 2026-08-27 at 22 10 30 (1)" src="https://github.com/user-attachments/assets/e31114b6-316b-464c-8512-455eb2f13c51" />
+<img width="1280" height="645" alt="WhatsApp Image 2026-08-27 at 22 10 30 (2)" src="https://github.com/user-attachments/assets/ea6ba77b-9869-4c20-b01f-f17443c32a99" />
+<img width="1280" height="599" alt="WhatsApp Image 2026-08-27 at 22 10 30" src="https://github.com/user-attachments/assets/51e3f427-e82d-45c9-afe8-24b9c1186233" />
+
+
+
+
 
