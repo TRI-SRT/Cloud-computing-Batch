@@ -415,4 +415,12 @@ Termination Protection for an Instance
 
 
 ## OUTPUT
-<img width="1916" height="1077" alt="image" src="https://github.com/user-attachments/assets/9aa44c52-8e0d-4a7c-a67a-bb3d19b42f80" />
+<img width="1783" height="882" alt="clo6" src="https://github.com/user-attachments/assets/f6f86e04-da2a-4b74-bc3b-1ca55fa1de27" />
+<img width="1805" height="871" alt="clo7" src="https://github.com/user-attachments/assets/bcc4db0b-c345-447f-9205-262b07c1c299" />
+
+<img width="1919" height="967" alt="lab-3-op-3" src="https://github.com/user-attachments/assets/ae36a3d9-e2eb-4d5e-81a1-65b6ffcd8905" />
+<img width="1766" height="891" alt="clo8" src="https://github.com/user-attachments/assets/bdda6dc0-662f-482b-9e58-22a5b41fa67f" />
+
+
+
+
