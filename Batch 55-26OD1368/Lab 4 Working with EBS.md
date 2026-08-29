@@ -299,6 +299,16 @@ Attached and mounted the new volume to your EC2 instance
 Verified that the file you created earlier was on the newly created volume
 
 Lab Complete
+<img width="1768" height="889" alt="clon1" src="https://github.com/user-attachments/assets/eba19edc-6173-46a8-bfcf-4af4445de503" />
+
+<img width="1758" height="895" alt="clon2" src="https://github.com/user-attachments/assets/1925be7e-a2a3-4742-b583-9fee2f32496f" />
+
+<img width="1766" height="891" alt="clon3" src="https://github.com/user-attachments/assets/3e2e9ae6-8064-4288-b315-8a4329626d43" />
+
+<img width="1768" height="890" alt="clon4" src="https://github.com/user-attachments/assets/9d3d3255-3ec3-437a-8f44-0213bed6c298" />
+
+
+
 Congratulations! You have completed the lab.
 Choose End Lab at the top of this page and then click Yes to confirm that you want to end the lab.
 
@@ -307,7 +317,6 @@ A panel will appear, indicating that "DELETE has been initiated... You may close
 Choose the X in the top right corner to close the panel.
 
 
-## OUTPUT
 
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/3f0369b9-df84-47d6-b5ea-5895f30f5167" />
+
 
