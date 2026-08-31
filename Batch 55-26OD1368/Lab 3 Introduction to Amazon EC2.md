@@ -414,4 +414,10 @@ Terminate Your Instance
 Termination Protection for an Instance
 
 ## output:
-<img width="1915" height="1011" alt="image" src="https://github.com/user-attachments/assets/221d449c-0cc9-414b-90a8-f29b9521d4df" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/19065baa-7d06-48f6-a522-9971411374da" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/ee8bc4c5-923a-43a4-b065-24d0233609f1" />
+<img width="1919" height="967" alt="lab-3-op-3" src="https://github.com/user-attachments/assets/d11c36dd-5459-4a96-bcf6-53a7f45bda2b" />
+<img width="1366" height="642" alt="image" src="https://github.com/user-attachments/assets/68e71e5a-c798-4234-b481-9e37548c97dc" />
+<img width="1516" height="712" alt="image" src="https://github.com/user-attachments/assets/53263d41-ab40-49f4-8369-c9c2211cbae8" />
+
+
