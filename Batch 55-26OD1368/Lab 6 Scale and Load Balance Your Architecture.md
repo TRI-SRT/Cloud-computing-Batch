@@ -406,4 +406,19 @@ Choose the X in the top right corner to close the panel.
 
 ## Output:
 
-<img width="1915" height="962" alt="image" src="https://github.com/user-attachments/assets/919666ed-908d-46d8-8ccd-8942e97b08d5" />
+
+<img width="1374" height="646" alt="image" src="https://github.com/user-attachments/assets/72a45a45-6533-460c-bc7a-f156e08a8f5f" />
+
+<img width="1412" height="662" alt="image" src="https://github.com/user-attachments/assets/c9de71f2-53d2-4995-898b-d73adbb90a2d" />
+
+
+<img width="1449" height="680" alt="image" src="https://github.com/user-attachments/assets/1d224f03-9a22-4095-bb67-53d6f943b706" />
+
+<img width="1459" height="686" alt="image" src="https://github.com/user-attachments/assets/4e397c61-a7d5-4b7a-b167-0e88274500b9" />
+
+
+<img width="1915" height="966" alt="lab-6-op-5" src="https://github.com/user-attachments/assets/40a5836c-649f-45e4-9d95-11cbb85c48ff" />
+
+<img width="1465" height="693" alt="image" src="https://github.com/user-attachments/assets/a102c06e-2312-4377-97bb-8ae8546c43d2" />
+
+<img width="1451" height="675" alt="image" src="https://github.com/user-attachments/assets/3345f8a3-6caf-4633-bc6d-6e9acace6dce" />
