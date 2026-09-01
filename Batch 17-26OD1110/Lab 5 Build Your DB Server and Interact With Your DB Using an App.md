@@ -8,7 +8,7 @@ By the end of this lab, you will be able to:
 
 Launch an Amazon RDS DB instance with high availability.
 
-Configure the DB instance to permit connections from your web server.
+Configure the DB instance to permit connections from your .web server.
 
 Open a web application and interact with your database.
 
