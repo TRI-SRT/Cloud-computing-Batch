@@ -405,4 +405,22 @@ Choose the X in the top right corner to close the panel.
 
 
 ## OUTPUT
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/c0a4abcc-0e57-476a-a297-b6f5fff3e4ad" />
+
+<img width="1445" height="678" alt="WhatsApp Image 2026-08-31 at 18 37 43" src="https://github.com/user-attachments/assets/1b5272a2-5add-4919-ab76-07c0062fa24d" />
+
+<img width="1445" height="680" alt="WhatsApp Image 2026-08-31 at 18 41 07" src="https://github.com/user-attachments/assets/5b22b3b1-1597-4deb-a478-f4ee95e2b679" />
+
+<img width="1406" height="660" alt="WhatsApp Image 2026-08-31 at 18 45 58" src="https://github.com/user-attachments/assets/dda4e6f0-6577-4dc8-8647-11f24a909cb1" />
+
+<img width="1420" height="671" alt="WhatsApp Image 2026-08-31 at 18 49 51" src="https://github.com/user-attachments/assets/4642c460-e99f-41fd-b7e8-401c466c7e20" />
+
+<img width="1915" height="966" alt="lab-6-op-5" src="https://github.com/user-attachments/assets/56d4ee96-a9d1-41a2-8306-e0176de27672" />
+
+<img width="1490" height="702" alt="WhatsApp Image 2026-08-31 at 18 57 15" src="https://github.com/user-attachments/assets/cd3bc073-497e-40c8-9c7e-f8bd526e951b" />
+
+<img width="1497" height="698" alt="WhatsApp Image 2026-08-31 at 19 01 14" src="https://github.com/user-attachments/assets/ca3e3a44-5d1c-4186-864c-1910da840098" />
+
+
+
+
+
