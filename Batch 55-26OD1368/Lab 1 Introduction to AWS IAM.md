@@ -395,6 +395,10 @@ A panel indicates that *You may close this message box now...*
 62. Select the **X** in the top-right corner to close the panel.
 
 ---
+<img width="1768" height="890" alt="image" src="https://github.com/user-attachments/assets/5cc8715a-1375-4b6f-a966-2f3a1524d13b" />
+<img width="1829" height="860" alt="image" src="https://github.com/user-attachments/assets/fc8e4564-8e08-4a5c-a973-a76ee7fe4c79" />
+<img width="1770" height="889" alt="image" src="https://github.com/user-attachments/assets/4beff13e-d4ea-41d2-a59f-3383240b8226" />
+<img width="1766" height="891" alt="image" src="https://github.com/user-attachments/assets/00551d3a-7863-4898-b8c3-70ec53294b44" />
 
 
 ## output:

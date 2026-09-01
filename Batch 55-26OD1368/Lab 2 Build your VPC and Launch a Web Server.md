@@ -363,6 +363,14 @@ To find detailed feedback about your work, choose Submission Report.
 Tip: For any checks where you did not receive full points, there are sometimes helpful details provided in the submission report.
 
 Lab complete
+
+<img width="1767" height="890" alt="image" src="https://github.com/user-attachments/assets/2f7ca3e3-5cf3-4d27-b86e-eadefb134eff" />
+<img width="1725" height="912" alt="image" src="https://github.com/user-attachments/assets/fe525d24-43a1-4a06-b483-7e2312dc43bf" />
+<img width="1752" height="898" alt="image" src="https://github.com/user-attachments/assets/05b583c9-512d-4cab-8bb6-248e3ec1c839" />
+<img width="1686" height="933" alt="image" src="https://github.com/user-attachments/assets/58842375-b631-4ece-8754-b0a6d0bb41cf" />
+<img width="1762" height="892" alt="image" src="https://github.com/user-attachments/assets/73f40d73-0120-4052-92ad-3b17b04a9bf1" />
+<img width="1919" height="965" alt="lab-2-op-6" src="https://github.com/user-attachments/assets/f21292e7-8808-49e7-86c1-44f61599b3ee" />
+
 Congratulations! You have completed the lab.
 
 Choose End Lab at the top of this page, and then select Yes to confirm that you want to end the lab.
