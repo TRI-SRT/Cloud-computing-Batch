@@ -6,7 +6,7 @@ Elastic Load Balancing automatically distributes incoming application traffic ac
 
 Auto Scaling helps you maintain application availability and allows you to scale your Amazon EC2 capacity out or in automatically according to conditions you define. You can use Auto Scaling to help ensure that you are running your desired number of Amazon EC2 instances. Auto Scaling can also automatically increase the number of Amazon EC2 instances during demand spikes to maintain performance and decrease capacity during lulls to reduce costs. Auto Scaling is well suited to applications that have stable demand patterns or that experience hourly, daily, or weekly variability in usage.
 
-By the end of this lab, you will be able to:
+By the end of this lab, you will be able to:.
 
 Create an Amazon Machine Image (AMI) from a running instance.
 
