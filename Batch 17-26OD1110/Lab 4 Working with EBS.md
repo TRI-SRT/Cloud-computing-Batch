@@ -6,7 +6,7 @@ This lab focuses on Amazon Elastic Block Store (Amazon EBS), a key underlying st
 
 Topics covered
 By the end of this lab, you will be able to:
-
+.
 Create an Amazon EBS volume
 
 Attach and mount your volume to an EC2 instance
