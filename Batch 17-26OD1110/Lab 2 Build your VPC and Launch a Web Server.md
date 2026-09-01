@@ -377,7 +377,7 @@ Congratulations! You have completed the lab.
 
 6.<img width="1602" height="302" alt="image" src="https://github.com/user-attachments/assets/9def3a4e-6074-43ad-b4da-20e8faa8372c" />
 
-Choose End Lab at the top of this page, and then select Yes to confirm that you want to end the lab.
+Choose End Lab at the top of this page, and then select Yes to confirm that you want to end the lab..
 
 A panel indicates that You may close this message box now...
 
