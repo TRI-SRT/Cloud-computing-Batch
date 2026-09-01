@@ -254,5 +254,17 @@ Choose the X in the top right corner to close the panel.
 
 
 ## OUTPUT
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/e633bc35-5853-4ac0-932f-3d3cb8884590" />
 
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/69cd60a7-c665-4834-94c4-53ca767b1c41" />
+<img width="1810" height="861" alt="image" src="https://github.com/user-attachments/assets/2b2d44b4-3d1d-4d3e-a005-71a6735c88da" />
+
+<img width="1481" height="756" alt="image" src="https://github.com/user-attachments/assets/f0ba1d24-8711-4538-8d2b-6961a104804e" />
+
+<img width="1918" height="965" alt="lab-5-op-4" src="https://github.com/user-attachments/assets/97e3f665-16e0-4aa2-b24d-7d42f2dd5d2b" />
+
+
+
+
+
+
+
