@@ -1,4 +1,4 @@
-Lab 2: Build your VPC and Launch a Web Server
+## Lab 2: Build your VPC and Launch a Web Server
 Lab overview and objectives
 In this lab, you will use Amazon Virtual Private Cloud (VPC) to create your own VPC and add additional components to produce a customized network. You will also create a security group. You will then configure and customize an EC2 instance to run a web server and you will launch the EC2 instance to run in a subnet in the VPC.
 
@@ -364,6 +364,23 @@ Tip: For any checks where you did not receive full points, there are sometimes h
 
 Lab complete
 Congratulations! You have completed the lab.
+
+## OUTPUT
+
+<img width="1185" height="296" alt="image" src="https://github.com/user-attachments/assets/c6faec65-f303-4a73-8ded-4259e4c1bfe0" />
+
+<img width="1181" height="298" alt="image" src="https://github.com/user-attachments/assets/d1eb8951-f478-4437-85bb-57b85fe0abd8" />
+
+<img width="1192" height="346" alt="image" src="https://github.com/user-attachments/assets/b62bf7ed-2d1d-4e89-9766-ab7dd5453d80" />
+
+<img width="1186" height="260" alt="image" src="https://github.com/user-attachments/assets/3be812f9-328d-4b37-bee3-f5d189a57ebe" />
+
+<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/0d573d8c-7bbe-4c21-ab4f-d34e5cf462c7" />
+
+
+
+
+
 
 Choose End Lab at the top of this page, and then select Yes to confirm that you want to end the lab.
 
