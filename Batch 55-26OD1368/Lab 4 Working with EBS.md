@@ -1,4 +1,4 @@
-Lab 4: Working with EBS
+## Lab 4: Working with EBS
 Lab Overview
 https://media/image.png
 
@@ -306,3 +306,21 @@ Choose End Lab at the top of this page and then click Yes to confirm that you wa
 A panel will appear, indicating that "DELETE has been initiated... You may close this message box now."
 
 Choose the X in the top right corner to close the panel.
+
+## OUTPUT
+
+<img width="1768" height="889" alt="image" src="https://github.com/user-attachments/assets/18bb097e-ef8f-4fd7-8e54-037728f37d5e" />
+
+<img width="1720" height="914" alt="image" src="https://github.com/user-attachments/assets/68b689d9-d4cb-46b0-9bbd-b0548c28f14f" />
+
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/5acf76a9-97ee-43e0-af30-de1a9a54a702" />
+
+<img width="1764" height="892" alt="image" src="https://github.com/user-attachments/assets/1f0c9345-515e-488d-9b3c-614c84427255" />
+
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/d1cc5a5d-fa97-4579-84ef-c449194d46a6" />
+
+
+
+
+
+
