@@ -1,4 +1,4 @@
-Lab 5: Build Your DB Server and Interact With Your DB Using an App
+## Lab 5: Build Your DB Server and Interact With Your DB Using an App
 Lab Overview and objectives
 This lab is designed to reinforce the concept of leveraging an AWS-managed database instance for solving relational database needs.
 
@@ -246,6 +246,20 @@ Lab Complete
 Congratulations! You have completed the lab.
 
 Choose End Lab at the top of this page and then choose Yes to confirm that you want to end the lab.
+
+## OUTPUT
+
+<img width="1770" height="889" alt="image" src="https://github.com/user-attachments/assets/e56eba55-5a96-48c9-b977-01a4e15fa609" />
+
+<img width="1765" height="891" alt="image" src="https://github.com/user-attachments/assets/0d5a4e90-82b8-4248-8ff7-6b609fc6fc22" />
+
+<img width="1917" height="957" alt="edited_image" src="https://github.com/user-attachments/assets/29338e6e-1342-45d1-89e1-300da4236f97" />
+
+<img width="1918" height="965" alt="image" src="https://github.com/user-attachments/assets/e276c3ab-4851-496d-b0e0-737ce1c683c5" />
+
+
+
+
 
 A panel will appear, indicating that "DELETE has been initiated... You may close this message box now."
 
