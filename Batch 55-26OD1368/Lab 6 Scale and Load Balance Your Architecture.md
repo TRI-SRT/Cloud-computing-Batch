@@ -1,4 +1,4 @@
-Lab 6: Scale and Load Balance Your Architecture
+## Lab 6: Scale and Load Balance Your Architecture
 Lab Overview and objectives
 This lab walks you through using the Elastic Load Balancing (ELB) and Auto Scaling services to load balance and automatically scale your infrastructure.
 
@@ -402,3 +402,26 @@ Choose End Lab at the top of this page and then choose Yes to confirm that you w
 A panel will appear, indicating that "DELETE has been initiated... You may close this message box now."
 
 Choose the X in the top right corner to close the panel.
+
+## OUTPUT
+
+<img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/a140d0a7-de99-4397-8abf-2ba1138cfb0f" />
+
+<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/6642089e-0555-440d-bd10-de6ed087fdf7" />
+
+<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/2d9dd558-ef03-45bd-b1ff-edf6600cb8d5" />
+
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/ef5859cf-d2fd-4182-a86c-cb7bcdb72b97" />
+
+<img width="1915" height="966" alt="image" src="https://github.com/user-attachments/assets/f4f2a529-94f4-4e7a-9a64-97e786b90976" />
+
+<img width="1914" height="962" alt="image" src="https://github.com/user-attachments/assets/22c4db6c-2d8c-49df-9ed4-d115c606ad5a" />
+
+<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/e3efb4a0-b9a6-4920-acf8-db576a554bc2" />
+
+
+
+
+
+
+
