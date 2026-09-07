@@ -299,15 +299,14 @@ Attached and mounted the new volume to your EC2 instance
 Verified that the file you created earlier was on the newly created volume
 
 Lab Complete
-<img width="1768" height="889" alt="clon1" src="https://github.com/user-attachments/assets/eba19edc-6173-46a8-bfcf-4af4445de503" />
 
-<img width="1758" height="895" alt="clon2" src="https://github.com/user-attachments/assets/1925be7e-a2a3-4742-b583-9fee2f32496f" />
+<img width="1770" height="888" alt="image" src="https://github.com/user-attachments/assets/afefaad2-084f-43c7-9bb2-048949710da9" />
+<img width="1756" height="896" alt="image" src="https://github.com/user-attachments/assets/0ccfaeab-b25d-44a6-9151-20bbbca058d8" />
+<img width="1919" height="968" alt="lab-4-op-3" src="https://github.com/user-attachments/assets/80ced6f7-8d16-4fcb-b859-e0197f47b524" />
+<img width="1768" height="890" alt="image" src="https://github.com/user-attachments/assets/cab27ed5-6f16-42e2-83c5-ec076641d259" />
+<img width="1919" height="966" alt="lab-4-op-5" src="https://github.com/user-attachments/assets/582fceaf-99ab-458d-85ce-a397db3b6f41" />
 
-<img width="1766" height="891" alt="clon3" src="https://github.com/user-attachments/assets/3e2e9ae6-8064-4288-b315-8a4329626d43" />
-
-<img width="1768" height="890" alt="clon4" src="https://github.com/user-attachments/assets/9d3d3255-3ec3-437a-8f44-0213bed6c298" />
-
-
+Congratulations! You have completed the lab.
 
 Congratulations! You have completed the lab.
 Choose End Lab at the top of this page and then click Yes to confirm that you want to end the lab.
@@ -315,8 +314,3 @@ Choose End Lab at the top of this page and then click Yes to confirm that you wa
 A panel will appear, indicating that "DELETE has been initiated... You may close this message box now."
 
 Choose the X in the top right corner to close the panel.
-
-
-
-
-

@@ -243,6 +243,11 @@ To find detailed feedback about your work, choose Submission Report.
 Tip: For any checks where you did not receive full points, there are sometimes helpful details provided in the submission report.
 
 Lab Complete
+<img width="1766" height="891" alt="image" src="https://github.com/user-attachments/assets/e7d8f878-1f5a-4c9e-91f5-b94995fe2957" />
+<img width="1766" height="891" alt="image" src="https://github.com/user-attachments/assets/f2b2649f-ba76-40db-9c3b-3d51c44f646e" />
+<img width="1740" height="904" alt="image" src="https://github.com/user-attachments/assets/5e648c11-5beb-4338-9b17-f10f77db6978" />
+<img width="1918" height="965" alt="lab-5-op-4" src="https://github.com/user-attachments/assets/3128a4cb-0f34-4d83-9ea6-1a316abc673c" />
+
 Congratulations! You have completed the lab.
 
 Choose End Lab at the top of this page and then choose Yes to confirm that you want to end the lab.
@@ -250,21 +255,3 @@ Choose End Lab at the top of this page and then choose Yes to confirm that you w
 A panel will appear, indicating that "DELETE has been initiated... You may close this message box now."
 
 Choose the X in the top right corner to close the panel.
-
-
-
-## OUTPUT
-<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/e633bc35-5853-4ac0-932f-3d3cb8884590" />
-
-<img width="1810" height="861" alt="image" src="https://github.com/user-attachments/assets/2b2d44b4-3d1d-4d3e-a005-71a6735c88da" />
-
-<img width="1481" height="756" alt="image" src="https://github.com/user-attachments/assets/f0ba1d24-8711-4538-8d2b-6961a104804e" />
-
-<img width="1918" height="965" alt="lab-5-op-4" src="https://github.com/user-attachments/assets/97e3f665-16e0-4aa2-b24d-7d42f2dd5d2b" />
-
-
-
-
-
-
-

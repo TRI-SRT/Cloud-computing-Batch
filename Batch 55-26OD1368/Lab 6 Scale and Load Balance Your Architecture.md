@@ -395,6 +395,15 @@ To find detailed feedback about your work, choose Submission Report.
 Tip: For any checks where you did not receive full points, there are sometimes helpful details provided in the submission report.
 
 Lab Complete
+
+<img width="1793" height="877" alt="image" src="https://github.com/user-attachments/assets/a4cafa1d-d940-409a-95ce-c39ad0275ff6" />
+<img width="1773" height="887" alt="image" src="https://github.com/user-attachments/assets/67d2b5cb-dcf4-4ba0-ae1e-3370f574db68" />
+<img width="1773" height="887" alt="image" src="https://github.com/user-attachments/assets/baf6b059-3556-42be-9ae2-26ecbca387b5" />
+<img width="1766" height="891" alt="image" src="https://github.com/user-attachments/assets/edd59251-285d-4b2d-9095-1e9379b48d43" />
+<img width="1915" height="966" alt="lab-6-op-5" src="https://github.com/user-attachments/assets/42ceaf31-2c29-4e89-9f2c-2037c6f897e6" />
+<img width="1763" height="892" alt="image" src="https://github.com/user-attachments/assets/c0e4e5f3-9b27-4f40-8c26-7ec71fe03d0d" />
+<img width="1772" height="888" alt="image" src="https://github.com/user-attachments/assets/d6379c7e-1c7b-4ab8-9e73-65366d77c9c4" />
+
 Congratulations! You have completed the lab.
 
 Choose End Lab at the top of this page and then choose Yes to confirm that you want to end the lab.
@@ -402,25 +411,3 @@ Choose End Lab at the top of this page and then choose Yes to confirm that you w
 A panel will appear, indicating that "DELETE has been initiated... You may close this message box now."
 
 Choose the X in the top right corner to close the panel.
-
-
-## OUTPUT
-
-<img width="1445" height="678" alt="WhatsApp Image 2026-08-31 at 18 37 43" src="https://github.com/user-attachments/assets/1b5272a2-5add-4919-ab76-07c0062fa24d" />
-
-<img width="1445" height="680" alt="WhatsApp Image 2026-08-31 at 18 41 07" src="https://github.com/user-attachments/assets/5b22b3b1-1597-4deb-a478-f4ee95e2b679" />
-
-<img width="1406" height="660" alt="WhatsApp Image 2026-08-31 at 18 45 58" src="https://github.com/user-attachments/assets/dda4e6f0-6577-4dc8-8647-11f24a909cb1" />
-
-<img width="1420" height="671" alt="WhatsApp Image 2026-08-31 at 18 49 51" src="https://github.com/user-attachments/assets/4642c460-e99f-41fd-b7e8-401c466c7e20" />
-
-<img width="1915" height="966" alt="lab-6-op-5" src="https://github.com/user-attachments/assets/56d4ee96-a9d1-41a2-8306-e0176de27672" />
-
-<img width="1490" height="702" alt="WhatsApp Image 2026-08-31 at 18 57 15" src="https://github.com/user-attachments/assets/cd3bc073-497e-40c8-9c7e-f8bd526e951b" />
-
-<img width="1497" height="698" alt="WhatsApp Image 2026-08-31 at 19 01 14" src="https://github.com/user-attachments/assets/ca3e3a44-5d1c-4186-864c-1910da840098" />
-
-
-
-
-

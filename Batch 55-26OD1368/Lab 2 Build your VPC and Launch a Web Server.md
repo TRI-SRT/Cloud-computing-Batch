@@ -363,6 +363,14 @@ To find detailed feedback about your work, choose Submission Report.
 Tip: For any checks where you did not receive full points, there are sometimes helpful details provided in the submission report.
 
 Lab complete
+
+<img width="1767" height="890" alt="image" src="https://github.com/user-attachments/assets/2f7ca3e3-5cf3-4d27-b86e-eadefb134eff" />
+<img width="1725" height="912" alt="image" src="https://github.com/user-attachments/assets/fe525d24-43a1-4a06-b483-7e2312dc43bf" />
+<img width="1752" height="898" alt="image" src="https://github.com/user-attachments/assets/05b583c9-512d-4cab-8bb6-248e3ec1c839" />
+<img width="1686" height="933" alt="image" src="https://github.com/user-attachments/assets/58842375-b631-4ece-8754-b0a6d0bb41cf" />
+<img width="1762" height="892" alt="image" src="https://github.com/user-attachments/assets/73f40d73-0120-4052-92ad-3b17b04a9bf1" />
+<img width="1919" height="965" alt="lab-2-op-6" src="https://github.com/user-attachments/assets/f21292e7-8808-49e7-86c1-44f61599b3ee" />
+
 Congratulations! You have completed the lab.
 
 Choose End Lab at the top of this page, and then select Yes to confirm that you want to end the lab.
@@ -370,19 +378,3 @@ Choose End Lab at the top of this page, and then select Yes to confirm that you 
 A panel indicates that You may close this message box now...
 
 Select the X in the top-right corner to close the panel.
-
-
-
-## OUTPUT
-<img width="1768" height="890" alt="clo2" src="https://github.com/user-attachments/assets/20f7ee96-375f-4ed3-8bf9-028a6e328845" />
-
-<img width="1760" height="893" alt="clo3" src="https://github.com/user-attachments/assets/3c2625c3-88d8-4476-ad52-e160e5f69d12" />
-
-<img width="1731" height="909" alt="clo4" src="https://github.com/user-attachments/assets/5a12bba2-3e6d-4051-9e97-e557c4f75048" />
-
-<img width="1771" height="888" alt="clo5" src="https://github.com/user-attachments/assets/e153a372-62a3-40a9-bd7a-cc94278c60b0" />
-
-
-<img width="1919" height="965" alt="lab-2-op-6" src="https://github.com/user-attachments/assets/233460a2-528a-465e-a12b-c0c6579894e5" />
-
-

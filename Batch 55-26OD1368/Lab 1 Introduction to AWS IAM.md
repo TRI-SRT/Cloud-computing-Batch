@@ -395,6 +395,10 @@ A panel indicates that *You may close this message box now...*
 62. Select the **X** in the top-right corner to close the panel.
 
 ---
+<img width="1768" height="890" alt="image" src="https://github.com/user-attachments/assets/5cc8715a-1375-4b6f-a966-2f3a1524d13b" />
+<img width="1829" height="860" alt="image" src="https://github.com/user-attachments/assets/fc8e4564-8e08-4a5c-a973-a76ee7fe4c79" />
+<img width="1770" height="889" alt="image" src="https://github.com/user-attachments/assets/4beff13e-d4ea-41d2-a59f-3383240b8226" />
+<img width="1766" height="891" alt="image" src="https://github.com/user-attachments/assets/00551d3a-7863-4898-b8c3-70ec53294b44" />
 
 ## Conclusion
 
@@ -407,17 +411,3 @@ Congratulations! You now have successfully:
 - Experimented with the effects of policies on service access
 
 © 2023 Amazon Web Services, Inc. and its affiliates. All rights reserved. This work may not be reproduced or redistributed, in whole or in part, without prior written permission from Amazon Web Services, Inc. Commercial copying, lending, or selling is prohibited.
-
-## output
-## IAM user login
-<img width="1768" height="890" alt="clo1" src="https://github.com/user-attachments/assets/62b36d82-0661-4eab-aaf3-35c10c3ddcf2" />
-
-## different user 1 and user 2 and user 3
-<img width="1280" height="644" alt="WhatsApp Image 2026-08-27 at 22 10 30 (1)" src="https://github.com/user-attachments/assets/e31114b6-316b-464c-8512-455eb2f13c51" />
-<img width="1280" height="645" alt="WhatsApp Image 2026-08-27 at 22 10 30 (2)" src="https://github.com/user-attachments/assets/ea6ba77b-9869-4c20-b01f-f17443c32a99" />
-<img width="1280" height="599" alt="WhatsApp Image 2026-08-27 at 22 10 30" src="https://github.com/user-attachments/assets/51e3f427-e82d-45c9-afe8-24b9c1186233" />
-
-
-
-
-

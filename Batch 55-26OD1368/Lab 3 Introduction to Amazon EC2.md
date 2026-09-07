@@ -371,6 +371,12 @@ To find detailed feedback about your work, choose Submission Report.
 
 Tip: For any checks where you did not receive full points, there are sometimes helpful details provided in the submission report.
 
+<img width="1783" height="882" alt="image" src="https://github.com/user-attachments/assets/fedef1a3-73ec-49c9-b240-7b7be181b37a" />
+<img width="1802" height="873" alt="image" src="https://github.com/user-attachments/assets/2a0735b4-1b46-46d5-9283-123ba63088d2" />
+<img width="1919" height="967" alt="lab-3-op-3" src="https://github.com/user-attachments/assets/905558af-dcef-4485-bf05-6239b63d2c2b" />
+<img width="1766" height="891" alt="image" src="https://github.com/user-attachments/assets/84da2fb3-1e34-4f58-9289-11935f9b36eb" />
+<img width="1775" height="886" alt="image" src="https://github.com/user-attachments/assets/4fb781b7-65ff-4306-8152-15ae6ef42822" />
+
 Lab Complete
 Congratulations! You have completed the lab.
 
@@ -412,15 +418,3 @@ Amazon EC2 Service Limits
 Terminate Your Instance
 
 Termination Protection for an Instance
-
-
-## OUTPUT
-<img width="1783" height="882" alt="clo6" src="https://github.com/user-attachments/assets/f6f86e04-da2a-4b74-bc3b-1ca55fa1de27" />
-<img width="1805" height="871" alt="clo7" src="https://github.com/user-attachments/assets/bcc4db0b-c345-447f-9205-262b07c1c299" />
-
-<img width="1919" height="967" alt="lab-3-op-3" src="https://github.com/user-attachments/assets/ae36a3d9-e2eb-4d5e-81a1-65b6ffcd8905" />
-<img width="1766" height="891" alt="clo8" src="https://github.com/user-attachments/assets/bdda6dc0-662f-482b-9e58-22a5b41fa67f" />
-
-
-
-
