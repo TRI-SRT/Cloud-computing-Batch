@@ -397,14 +397,10 @@ A panel indicates that *You may close this message box now...*
 ---
 
 ## Output
-
-<img width="1919" height="966" alt="lab-1-op-1" src="https://github.com/user-attachments/assets/a08cd941-bea8-4c89-8d61-418f9d574d47" />
-
-<img width="1919" height="899" alt="lab-1-op-2" src="https://github.com/user-attachments/assets/a4f072db-7576-4010-8406-64af67db1604" />
-
-<img width="1918" height="965" alt="lab-1-op-3" src="https://github.com/user-attachments/assets/bd13c291-0302-490c-ba3b-ed016c7d0c77" />
-
-<img width="1909" height="962" alt="lab-1-op-4" src="https://github.com/user-attachments/assets/383944e5-77fe-4f20-934c-dcdffd178896" />
+<img width="1919" height="966" alt="lab-1-op-1" src="https://github.com/user-attachments/assets/e8834878-0665-4c8c-924f-39aa200753b4" />
+<img width="1919" height="899" alt="lab-1-op-2" src="https://github.com/user-attachments/assets/a471b76f-9d3e-4862-a9a8-d75587511dcc" />
+<img width="1918" height="965" alt="lab-1-op-3" src="https://github.com/user-attachments/assets/17ae508b-9b66-4c56-941c-04783ba58ee5" />
+<img width="1909" height="962" alt="lab-1-op-4" src="https://github.com/user-attachments/assets/cff0926c-7672-4a0e-9c1f-add88520b7a5" />
 
 
 ## Conclusion
