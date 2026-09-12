@@ -405,10 +405,22 @@ Choose the X in the top right corner to close the panel.
 
 ## Output
 
-<img width="1919" height="956" alt="lab-6-op-1" src="https://github.com/user-attachments/assets/9c159bea-d84f-40a1-ba87-374d40a6f6c6" />
-<img width="1919" height="960" alt="lab-6-op-2" src="https://github.com/user-attachments/assets/0329072b-c81f-4f7f-9fdc-d14421881614" />
-<img width="1919" height="960" alt="lab-6-op-3" src="https://github.com/user-attachments/assets/86f53567-16be-4f6a-ac6d-79039c405101" />
-<img width="1919" height="968" alt="lab-6-op-4" src="https://github.com/user-attachments/assets/cb4336b4-24f4-481d-94aa-1042af0080ca" />
-<img width="1915" height="966" alt="lab-6-op-5" src="https://github.com/user-attachments/assets/26e7ea2e-83e9-4fb0-aa71-52757b32d1d3" />
-<img width="1914" height="962" alt="lab-6-op-6" src="https://github.com/user-attachments/assets/25a25e62-ecda-41ea-b5ef-ffd3223b7dfc" />
-<img width="1919" height="959" alt="lab-6-op-7" src="https://github.com/user-attachments/assets/b5ea419e-31eb-4291-825f-5aa27c75200e" />
+<img width="1919" height="956" alt="lab-6-op-1" src="https://github.com/user-attachments/assets/4dfb771a-7d37-4271-bc2a-bf83812467fc" />
+<img width="1919" height="959" alt="lab-6-op-7" src="https://github.com/user-attachments/assets/8ad27003-78af-470d-b528-a4d8e54895da" />
+<img width="1914" height="962" alt="lab-6-op-6" src="https://github.com/user-attachments/assets/612f6576-5aca-4796-a0cb-6bb4756fbc03" />
+<img width="1915" height="966" alt="lab-6-op-5" src="https://github.com/user-attachments/assets/5aded91f-c031-4523-94c2-4d2a5aa09e87" />
+<img width="1919" height="968" alt="lab-6-op-4" src="https://github.com/user-attachments/assets/7221c6a3-9aad-42a0-bea2-e3a21ea588bf" />
+<img width="1919" height="960" alt="lab-6-op-3" src="https://github.com/user-attachments/assets/7ff70147-cf52-4bfd-bccf-54b524286799" />
+<img width="1919" height="960" alt="lab-6-op-2" src="https://github.com/user-attachments/assets/53d2c7df-6b34-4100-b9c8-4ad8c8f7b60c" />
+
+
+
+
+
+
+
+
+
+
+
+
