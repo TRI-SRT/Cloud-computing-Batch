@@ -398,7 +398,8 @@ A panel indicates that *You may close this message box now...*
 
 ## Output
 
-<img width="1919" height="966" alt="lab-1-op-1" src="https://github.com/user-attachments/assets/a08cd941-bea8-4c89-8d61-418f9d574d47" />
+<img width="1919" height="966" alt="lab-1-op-1" src="https://github.com/user-attachments/assets/d933162e-c313-4fb5-b7e2-d28b8e6977db" />
+
 
 <img width="1919" height="899" alt="lab-1-op-2" src="https://github.com/user-attachments/assets/a4f072db-7576-4010-8406-64af67db1604" />
 
