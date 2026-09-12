@@ -396,13 +396,12 @@ Tip: For any checks where you did not receive full points, there are sometimes h
 
 Lab Complete
 
-<img width="1793" height="877" alt="image" src="https://github.com/user-attachments/assets/a4cafa1d-d940-409a-95ce-c39ad0275ff6" />
-<img width="1773" height="887" alt="image" src="https://github.com/user-attachments/assets/67d2b5cb-dcf4-4ba0-ae1e-3370f574db68" />
-<img width="1773" height="887" alt="image" src="https://github.com/user-attachments/assets/baf6b059-3556-42be-9ae2-26ecbca387b5" />
-<img width="1766" height="891" alt="image" src="https://github.com/user-attachments/assets/edd59251-285d-4b2d-9095-1e9379b48d43" />
-<img width="1915" height="966" alt="lab-6-op-5" src="https://github.com/user-attachments/assets/42ceaf31-2c29-4e89-9f2c-2037c6f897e6" />
-<img width="1763" height="892" alt="image" src="https://github.com/user-attachments/assets/c0e4e5f3-9b27-4f40-8c26-7ec71fe03d0d" />
-<img width="1772" height="888" alt="image" src="https://github.com/user-attachments/assets/d6379c7e-1c7b-4ab8-9e73-65366d77c9c4" />
+<img width="1775" height="886" alt="lab-6 op-1" src="https://github.com/user-attachments/assets/95979bff-463e-4fb5-bce3-7dee9325e873" />
+<img width="1771" height="888" alt="lab-6 op-2" src="https://github.com/user-attachments/assets/8fbb0880-db52-4106-b63e-f0eedb638010" />
+<img width="1772" height="887" alt="lab-6 op-3" src="https://github.com/user-attachments/assets/f09baeca-13bf-4ae7-81c7-b89d2e9fabfb" />
+<img width="1915" height="966" alt="lab-6-op-5" src="https://github.com/user-attachments/assets/f14ce6e1-f7c4-4c85-9dac-171ea6faf757" />
+<img width="1774" height="887" alt="lab-6 op-6" src="https://github.com/user-attachments/assets/e66d24fd-cbba-4320-aad6-da42e951b717" />
+
 
 Congratulations! You have completed the lab.
 
