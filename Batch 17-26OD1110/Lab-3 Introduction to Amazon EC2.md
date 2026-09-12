@@ -414,15 +414,22 @@ Terminate Your Instance
 Termination Protection for an Instance
 
 ## Output
+<img width="1919" height="958" alt="lab-3-op-5" src="https://github.com/user-attachments/assets/b2d1f8f7-95d0-476a-a91e-92e7a7f765ed" />
+<img width="1919" height="969" alt="lab-3-op-4" src="https://github.com/user-attachments/assets/c1e8b0f8-19f9-4dbb-b83e-a01caa132595" />
+<img width="1919" height="967" alt="lab-3-op-3" src="https://github.com/user-attachments/assets/e6df7776-c7cd-44c2-a1b6-ee99cc663ac6" />
+<img width="1919" height="927" alt="lab-3-op-2" src="https://github.com/user-attachments/assets/430e29b5-2740-44ed-b44c-0ccd4449357a" />
+<img width="1919" height="950" alt="lab-3-op-1" src="https://github.com/user-attachments/assets/487c74da-6732-47cb-91d3-96e0bd93443a" />
 
-<img width="1919" height="950" alt="lab-3-op-1" src="https://github.com/user-attachments/assets/19e2dd48-26b8-473e-8f8d-5e1aa7b924ff" />
 
-<img width="1919" height="927" alt="lab-3-op-2" src="https://github.com/user-attachments/assets/1d6f6fd3-6c19-45bf-b414-a68a0ba119d5" />
 
-<img width="1919" height="967" alt="lab-3-op-3" src="https://github.com/user-attachments/assets/668a07f5-a5f0-4807-9fcf-31f3a10554d1" />
 
-<img width="1919" height="969" alt="lab-3-op-4" src="https://github.com/user-attachments/assets/04e5d355-992f-4759-9363-6de43e14acb1" />
 
-<img width="1919" height="958" alt="lab-3-op-5" src="https://github.com/user-attachments/assets/4bf0ffa3-6796-4931-a6b6-55f61a8b6c02" />
+
+
+
+
+
+
+
 
 
