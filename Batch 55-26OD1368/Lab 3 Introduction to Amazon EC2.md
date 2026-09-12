@@ -371,11 +371,12 @@ To find detailed feedback about your work, choose Submission Report.
 
 Tip: For any checks where you did not receive full points, there are sometimes helpful details provided in the submission report.
 
-<img width="1783" height="882" alt="image" src="https://github.com/user-attachments/assets/fedef1a3-73ec-49c9-b240-7b7be181b37a" />
-<img width="1802" height="873" alt="image" src="https://github.com/user-attachments/assets/2a0735b4-1b46-46d5-9283-123ba63088d2" />
-<img width="1919" height="967" alt="lab-3-op-3" src="https://github.com/user-attachments/assets/905558af-dcef-4485-bf05-6239b63d2c2b" />
-<img width="1766" height="891" alt="image" src="https://github.com/user-attachments/assets/84da2fb3-1e34-4f58-9289-11935f9b36eb" />
-<img width="1775" height="886" alt="image" src="https://github.com/user-attachments/assets/4fb781b7-65ff-4306-8152-15ae6ef42822" />
+<img width="1778" height="885" alt="lab-3 op-1" src="https://github.com/user-attachments/assets/d04d722a-ecae-41f0-94f4-94fde8eb7b85" />
+<img width="1805" height="871" alt="lab-3 op-2" src="https://github.com/user-attachments/assets/4a3b5f37-70fa-46d0-9ba3-f3674f1df600" />
+<img width="1919" height="967" alt="lab-3-op-3" src="https://github.com/user-attachments/assets/5e65a391-fa2c-47c0-9081-382785cd39df" />
+<img width="1766" height="891" alt="lab-3 op-4" src="https://github.com/user-attachments/assets/ce627c0f-9ba7-45b7-8fb7-f86baab2d26c" />
+<img width="1774" height="887" alt="lab-3 op-5" src="https://github.com/user-attachments/assets/012a2bbe-6c91-4489-ad52-00d7a4e5e6a3" />
+
 
 Lab Complete
 Congratulations! You have completed the lab.

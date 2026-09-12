@@ -395,10 +395,12 @@ A panel indicates that *You may close this message box now...*
 62. Select the **X** in the top-right corner to close the panel.
 
 ---
-<img width="1768" height="890" alt="image" src="https://github.com/user-attachments/assets/5cc8715a-1375-4b6f-a966-2f3a1524d13b" />
-<img width="1829" height="860" alt="image" src="https://github.com/user-attachments/assets/fc8e4564-8e08-4a5c-a973-a76ee7fe4c79" />
-<img width="1770" height="889" alt="image" src="https://github.com/user-attachments/assets/4beff13e-d4ea-41d2-a59f-3383240b8226" />
-<img width="1766" height="891" alt="image" src="https://github.com/user-attachments/assets/00551d3a-7863-4898-b8c3-70ec53294b44" />
+<img width="1768" height="890" alt="lab-1 opt-1" src="https://github.com/user-attachments/assets/d1105ae2-ca2c-41b7-8a1e-b3a63deec645" />
+<img width="1919" height="899" alt="lab-1-op-2" src="https://github.com/user-attachments/assets/8f405cf9-3142-4b06-97dc-8574adc531ec" />
+<img width="1918" height="965" alt="lab-1-op-3" src="https://github.com/user-attachments/assets/6f1c5bd8-162c-4b1f-bf3e-0f6ac519f172" />
+<img width="1909" height="962" alt="lab-1-op-4" src="https://github.com/user-attachments/assets/1c32e5ac-8cca-4343-ac93-fec21f7e1fd3" />
+
+
 
 ## Conclusion
 
