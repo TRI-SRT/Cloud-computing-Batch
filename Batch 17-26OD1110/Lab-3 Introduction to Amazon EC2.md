@@ -415,9 +415,14 @@ Termination Protection for an Instance
 
 ## Output
 
-<img width="1919" height="950" alt="lab-3-op-1" src="https://github.com/user-attachments/assets/744ee631-3ef2-4f49-adba-b052e0dab75f" />
-<img width="1919" height="958" alt="lab-3-op-5" src="https://github.com/user-attachments/assets/03e4624d-0e7f-4c18-a126-bbd02e16f458" />
-<img width="1919" height="969" alt="lab-3-op-4" src="https://github.com/user-attachments/assets/74d980fa-0ce9-4b62-abd4-717f1bacc8fb" />
-<img width="1919" height="967" alt="lab-3-op-3" src="https://github.com/user-attachments/assets/24489da8-77d5-438a-9618-e5828f643664" />
-<img width="1919" height="927" alt="lab-3-op-2" src="https://github.com/user-attachments/assets/2991f770-af2b-4c91-971e-fa33ede82c91" />
+
+<img width="1919" height="950" alt="lab-3-op-1" src="https://github.com/user-attachments/assets/c07d42f4-322b-4bd3-9b6a-701b01254382" />
+<img width="1919" height="927" alt="lab-3-op-2" src="https://github.com/user-attachments/assets/1661830e-bb23-454d-a0a6-6934b162f064" />
+<img width="1919" height="967" alt="lab-3-op-3" src="https://github.com/user-attachments/assets/399372af-f867-4081-b64d-1b9d465b5267" />
+<img width="1919" height="969" alt="lab-3-op-4" src="https://github.com/user-attachments/assets/eddd2dc8-df25-42b9-b423-837acc08d6d4" />
+<img width="1919" height="958" alt="lab-3-op-5" src="https://github.com/user-attachments/assets/42a05dfa-b7de-4be4-bf0a-5671ea5b05f3" />
+
+
+
+
 
