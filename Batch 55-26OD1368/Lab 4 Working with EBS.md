@@ -300,11 +300,12 @@ Verified that the file you created earlier was on the newly created volume
 
 Lab Complete
 
-<img width="1770" height="888" alt="image" src="https://github.com/user-attachments/assets/afefaad2-084f-43c7-9bb2-048949710da9" />
-<img width="1756" height="896" alt="image" src="https://github.com/user-attachments/assets/0ccfaeab-b25d-44a6-9151-20bbbca058d8" />
-<img width="1919" height="968" alt="lab-4-op-3" src="https://github.com/user-attachments/assets/80ced6f7-8d16-4fcb-b859-e0197f47b524" />
-<img width="1768" height="890" alt="image" src="https://github.com/user-attachments/assets/cab27ed5-6f16-42e2-83c5-ec076641d259" />
-<img width="1919" height="966" alt="lab-4-op-5" src="https://github.com/user-attachments/assets/582fceaf-99ab-458d-85ce-a397db3b6f41" />
+<img width="1775" height="886" alt="lab-4 op-1" src="https://github.com/user-attachments/assets/73317627-ae79-481e-a9a8-f847680051d4" />
+<img width="1919" height="968" alt="lab-4-op-3" src="https://github.com/user-attachments/assets/fb208678-49cd-47ec-b5dd-8dc1fbd2004c" />
+<img width="1756" height="896" alt="lab-4 op-2" src="https://github.com/user-attachments/assets/2fc213f9-58eb-4d51-9cbe-1f1db3614577" />
+<img width="1769" height="889" alt="lab-4 op-4" src="https://github.com/user-attachments/assets/506e7ecb-c6a1-4d59-9ab9-b8d9d285f1a9" />
+<img width="1919" height="966" alt="lab-4-op-5" src="https://github.com/user-attachments/assets/bbab487e-ae22-4fc6-8ea1-3646e2a1d2f6" />
+
 
 Congratulations! You have completed the lab.
 
