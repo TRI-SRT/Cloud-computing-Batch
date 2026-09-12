@@ -252,8 +252,17 @@ A panel will appear, indicating that "DELETE has been initiated... You may close
 Choose the X in the top right corner to close the panel.
 
 ## Output
+<img width="1919" height="970" alt="lab-5-op-1" src="https://github.com/user-attachments/assets/d261a83c-7e6d-46f4-b778-e13c187a18c6" />
 
-<img width="1917" height="957" alt="lab-5-op-3" src="https://github.com/user-attachments/assets/3f2fcd7b-a2d9-4d63-ad53-ced5847d901c" />
-<img width="1919" height="967" alt="lab-5-op-2" src="https://github.com/user-attachments/assets/948c778a-7f4f-47cd-9263-2d529e9dd39f" />
-<img width="1919" height="970" alt="lab-5-op-1" src="https://github.com/user-attachments/assets/5ebf7e3a-b89e-4871-b7df-af6d7d6acf01" />
-<img width="1918" height="965" alt="lab-5-op-4" src="https://github.com/user-attachments/assets/0b8ba742-591c-48ce-bd73-57656de3c27d" />
+
+
+
+
+<img width="1918" height="965" alt="lab-5-op-4" src="https://github.com/user-attachments/assets/eb2eba63-2d8b-4ee0-8b23-af4b243a5f5b" />
+<img width="1917" height="957" alt="lab-5-op-3" src="https://github.com/user-attachments/assets/8efe7e2e-3cf6-4096-aac0-8936ea59665c" />
+<img width="1919" height="967" alt="lab-5-op-2" src="https://github.com/user-attachments/assets/c9a49541-f4c8-47a8-8ca8-9f5447c953a9" />
+
+
+
+
+
